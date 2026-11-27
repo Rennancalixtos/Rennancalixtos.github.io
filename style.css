@@ -158,3 +158,4 @@ footer {
 .more { margin-top: 32px; }
 
 #sobre { margin-top: 28px; }
+.project .note { flex: none; font-size: 0.78rem; color: var(--muted); margin-top: 10px; opacity: .8; }
